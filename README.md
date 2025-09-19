@@ -38,7 +38,7 @@ Python, JavaScript e C#.
     </a>
 </p>
 
----
+#
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -78,6 +78,7 @@ Python, JavaScript e C#.
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
 />
+<br/>
 <img 
     alt="JavaScript" 
     title="JavaScript"
