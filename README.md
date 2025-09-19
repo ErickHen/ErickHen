@@ -1,16 +1,137 @@
-## Hi there 👋
+# 👩🏻‍💻 Erik Henrique
 
-<!--
-**ErickHen/ErickHen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheiro de IA & Cientista de dados`**
 
-Here are some ideas to get you started:
+Meu nome é Erik Henrique e sou bacharel em Sistemas de Informação, com especialização
+em Inteligência Artificial e Aprendizado de Máquina pela PUC Minas. Tenho experiência
+prática em desenvolvimento back-end com .NET, além de sólida base em linguagens como
+Python, JavaScript e C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Contato
+
+<p align="left">
+    <a href="erickhenrique110410@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.kaggle.com/erikhen">
+        <img 
+            alt="kaggle" 
+            title="kaggle" 
+            src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
+        />
+    </a> 
+    <a href="https://www.linkedin.com/in/erikhenn/">
+        <img 
+            alt="linkedin" 
+            title="linkedin" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="mysql"
+    title="mysql" 
+    width="100px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="python" 
+    title="python"
+    width="112px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="150px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" 
+/>
+<img 
+    align="left" 
+    alt="csharp"
+    title="csharp" 
+    width="49px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt=".net"
+    title=".net" 
+    width="87px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="140px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="microsoftazure"
+    title="microsoftazure" 
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="115px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
+/>
+
+<img 
+    align="left" 
+    alt="git" 
+    title="git"
+    width="81.5px" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ErickHen&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickHen&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
